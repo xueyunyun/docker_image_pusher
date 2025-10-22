@@ -1,5 +1,4 @@
 # 自定义拉取镜像
-mysql
-goharbor/prepare:v2.9.0
---platform=linux/arm64 goharbor/prepare:v2.9.0
+lwolf/snmp-server-mock
+
 
